@@ -545,6 +545,42 @@ The Admin Panel enables administrators to:
 * Access system analytics
 
 ---
+## 📸 Screenshots
+
+### 1. Home Page
+<img width="1841" height="844" alt="image" src="https://github.com/user-attachments/assets/6660b9cc-06b5-42e9-a22f-5b226f1422dc" />
+
+
+### 2. AI Copilot
+<img width="1838" height="828" alt="image" src="https://github.com/user-attachments/assets/ecd48fee-f5b8-40e0-8324-9aba291e7698" />
+
+### 3. Login page
+<img width="1082" height="467" alt="image" src="https://github.com/user-attachments/assets/bd06dcfe-8df0-4b0e-88b5-debaf5a888c8" />
+
+### 4. Register Account
+<img width="1078" height="810" alt="image" src="https://github.com/user-attachments/assets/c541489d-38db-428e-b41c-f9ecf1847f8e" />
+
+### 5. Reset Password
+<img width="1148" height="601" alt="image" src="https://github.com/user-attachments/assets/68513d4e-b629-4834-aa61-c596b5e0d8d6" />
+
+### 6. Agent 1
+<img width="1521" height="772" alt="image" src="https://github.com/user-attachments/assets/b94406ff-b09e-43c9-92c7-c175cc1e9a57" />
+
+### 7. Agent 2
+<img width="1920" height="849" alt="image" src="https://github.com/user-attachments/assets/3af25193-1d1c-4a73-b3cf-73889ccbed6a" />
+
+### 8. Agent 3
+<img width="1871" height="863" alt="image" src="https://github.com/user-attachments/assets/34d08285-40e0-412c-a745-2a854820fd1e" />
+
+### 9. Analytics & Retrain
+<img width="1855" height="868" alt="image" src="https://github.com/user-attachments/assets/b8dc1028-c4e8-4826-9bba-0ccdfca4f78f" />
+
+### 10. Password Strength
+<img width="970" height="556" alt="image" src="https://github.com/user-attachments/assets/d581d36c-0ab5-4f79-a5d8-87067764d0fb" />
+
+### 11. Account Lockout After Multiple Failed Login Attempts
+<img width="1017" height="516" alt="image" src="https://github.com/user-attachments/assets/d04d1c34-8fcd-4c13-9367-30d87155157b" />
+
 
 
 
