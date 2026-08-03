@@ -581,7 +581,14 @@ The Admin Panel enables administrators to:
 ### 11. Account Lockout After Multiple Failed Login Attempts
 <img width="1017" height="516" alt="image" src="https://github.com/user-attachments/assets/d04d1c34-8fcd-4c13-9367-30d87155157b" />
 
+## 👥 Team Contributions
 
+| Team Member | Responsibilities |
+|-------------|------------------|
+| Alexa Salvi | Integrated the authentication module with the application and ensured smooth functionality without introducing new issues. |
+| Vishnu Vardhan Reddy | Identified and resolved application issues, improved backend functionality, and enhanced overall system performance. |
+| Kavya Shree | Redesigned and improved the UI/UX theme to provide a better user experience and a more attractive interface. |
+| Samatha Sri | Conducted final testing, resolved minor issues, validated all application features, and prepared the README.md documentation. |
 
 
 
